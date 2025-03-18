@@ -2,7 +2,9 @@
 
 ## 📌Descrição
 
-Este projeto de Agenda em Python permite gerenciar contatos de forma eficiente, utilizando os principais conceitos da linguagem para cadastrar, editar, remover e visualizar contatos. Além disso, os dados são armazenados em um banco de dados, garantindo a persistência das informações mesmo após o fechamento do programa.
+A **Agenda Python** é um projeto desenvolvido em Python com o objetivo de gerenciar contatos de forma simples e eficiente. Utilizando as principais estruturas de dados e recursos da linguagem, o sistema oferece funcionalidades completas para cadastro, edição, remoção, visualização e pesquisa de contatos. Além disso, os dados são armazenados e recuperados de um banco de dados SQLite, garantindo a persistência das informações entre diferentes execuções do programa.
+
+Este projeto é ideal para quem deseja aprender a manipular dados, trabalhar com persistência de informações e desenvolver habilidades em Python por meio de um aplicativo prático.
 
 ## 🎯Tecnologias Utilizadas
 
