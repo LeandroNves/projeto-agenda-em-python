@@ -14,7 +14,7 @@ Este projeto é ideal para quem deseja aprender a manipular dados, trabalhar com
 - **Manipulação de Arquivos**: Salvamento e carregamento dos contatos em arquivos.
 - **Criação de Funções**: Organização do código em funções reutilizáveis.
 - **Tratamento de Erros**: Validação de dados e exceções para evitar falhas.
-- **Banco de Dados SQLite**: Persistência dos contatos, mesmo após o fechamento do programa.
+- **Banco de Dados**: Persistência dos contatos, mesmo após o fechamento do programa.
 
 ## 🛠️Funcionalidades
 
